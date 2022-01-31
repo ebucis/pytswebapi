@@ -1,0 +1,9 @@
+DEBUG - 30-Jan-22 20:07:47 - Starting new HTTPS connection (1): api.tradestation.com:443
+DEBUG - 30-Jan-22 20:07:48 - https://api.tradestation.com:443 "POST /v2/security/authorize HTTP/1.1" 200 931
+INFO - 30-Jan-22 20:07:48 - Client.getAssetTypeFromSymbol(@ES) returning asset type EQ
+INFO - 30-Jan-22 20:07:48 - Calling Client.stream
+INFO - 30-Jan-22 20:07:48 - Creating new Stream
+INFO - 30-Jan-22 20:07:48 - Initializing Stream
+DEBUG - 30-Jan-22 20:07:48 - Starting new HTTPS connection (1): api.tradestation.com:443
+DEBUG - 30-Jan-22 20:07:48 - https://api.tradestation.com:443 "GET /v2/stream/barchart/@ES/1/Minute?SessionTemplate=Default&daysBack=1&access_token=Y1JxVi9mS09vK21Tc2hYdHA1QmdGZDg1bUExTDgvQ3p5b21BcTArQjk4UkpLeWxGMnBsblVRTm5qcWNMUVhBV0lMWkNaVUs4WnNzYWNlNUoyL044V2VGN0hLZi9lMEoraXBORnI0blJrMUNMTTJJaXdXekVBSlhVVlIwQkhPMC9mcmRjRTZPUERVdTBxVGFuMUpqL0JsRzBjRndtTVZtQjR6YUR6N2ROVWFEdUE2REpucXFrMmlUOHZnNEJFaHEyRHdYckF3RUE1ek5UUHV5RFRvZVlpVFN0WkNzeTJHV0RVNlZZWG9CSnRHYXpWRlFITkpISmY3NDdwdzR0YVNDSzlPQUdNK2hQQ3VrdUdKWnAyZFZPQVBXc01PNzViT1F3QzhhdmE1YjBPeCtKU1ZIV3dLbUplQXQwVVp0WGxyZUQvdVRhTERnYXJXQnBKa2pxRGVWV3g5Q2hneUJJREpVOFpBQkw1SEJXUXVycXZ2Sklqc0dZbTVPVWxmS2ljZ0dvalQvU2MrS1BqTndxNkltc2lPQ3MySUlVY0xMUUFjNHp1eWV3dll4T3VjZTBFUzNvc2lQU1BFRXU4dVUxdjdWUWFIL1M1MGxIMjZMbFRXdEFDd1I4THZaK2NaY0g2TzI5NkV5SnVmcm5BY1E9&heartbeat=true HTTP/1.1" 200 None
+DEBUG - 30-Jan-22 20:07:48 - stream has been received
