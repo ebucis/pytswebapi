@@ -1,0 +1,4 @@
+finplot==1.8
+pandas==1.4.0
+python_dateutil==2.8.2
+requests==2.27.1
