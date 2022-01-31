@@ -130,5 +130,5 @@ dmypy.json
 
 
 # local cache
-# /cache/*
+/cache/*
 
